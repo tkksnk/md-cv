@@ -23,25 +23,25 @@ I'm a Bioinformatics Scientist at [Illumina](http://www.illumina.com/), based at
 ## Employment
 
 `2016-`
-__Kobe University__ Center for Social Systems Innovation, Project Associate Professor
+__Kobe University__, Center for Social Systems Innovation, Project Associate Professor
 
 `2014-2016`
-__The University of Tokyo__ Graduate School of Public Policy, Project Assistant Professor
+__The University of Tokyo__, Graduate School of Public Policy, Project Assistant Professor
 
 `2005-2014`
-__Bank of Japan__ Economist
+__Bank of Japan__, Economist
 
 ## Education
 
 `2012`
-__The Ohio State University__ PhD Economics (Advisers: William D. Dupor and Aubhik Khan).
+__The Ohio State University__, PhD Economics (Advisers: William D. Dupor and Aubhik Khan).
 <!-- My thesis was titled _Unravelling higher order chromatin organisation through statistical analysis_ and is available through the [Edinburgh Research Archive](https://www.era.lib.ed.ac.uk/handle/1842/22906). -->
 
 `2005`
-__The University of Tokyo__ MA Economics
+__The University of Tokyo__, MA Economics
 
 `2003`
-__The University of Tokyo__ BA International Relations
+__The University of Tokyo__, BA International Relations
 
 <!-- ## Presentations
 
