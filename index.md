@@ -164,7 +164,7 @@ Queen Mary University of London, European Central Bank, Federal Reserve Board, F
 
 `2019` Midwest Macroeconomics Meetings (Athens), International Conference on Computing in Economics and Finance (Ottawa)
 
-`2018` Workshop for Heterogeneous Macro Models (Kyoto), Japanese Economic Association Fall Meeting (Himeji, invited), Asian Meeting of the Econometric Society (Seoul), The Annual Dynare Conference (Frankfurt)
+`2018` Workshop for Heterogeneous Macro Models (Kyoto), Japanese Economic Association Fall Meeting (Himeji, _invited_), Asian Meeting of the Econometric Society (Seoul), The Annual Dynare Conference (Frankfurt)
 
 `2017` ASSA Annual Meeting (Chicago, poster session), Workshop for Monetary Policy When Heterogeneity Matters (Paris), T2M conference (Lisbon), Workshop for Heterogeneous Macro Models (Kobe), International Conference on Computing in Economics and Finance (New York City), The End of the Year Conference at CIGS
 
