@@ -11,10 +11,11 @@ title: Takeki Sunakawa's CV
 <a href="mailto:takeki.sunakawa@gmail.com">takeki.sunakawa@gmail.com</a>
 |
 <i class="fa fa-github"></i> <a href="http://github.com/tkksnk">tkksnk</a>
+<br/>
+Last Updated: September 5, 2019.
 <!-- |
 <i class="fa fa-twitter"></i> <a href="http://twitter.com/tkksnk">tkksnk</a> -->
 </div>
-
 
 <!-- ## Currently
 
@@ -23,7 +24,7 @@ I'm a Bioinformatics Scientist at [Illumina](http://www.illumina.com/), based at
 ## Employment
 
 `2016-`
-__Kobe University__, , Center for Social Systems Innovation, Project Associate Professor
+__Kobe University__, Center for Social Systems Innovation, Project Associate Professor
 
 `2014-2016`
 __The University of Tokyo__, Graduate School of Public Policy, Project Assistant Professor
@@ -38,7 +39,7 @@ __The Ohio State University__, PhD Economics (Advisers: William D. Dupor and Aub
 <!-- My thesis was titled _Unravelling higher order chromatin organisation through statistical analysis_ and is available through the [Edinburgh Research Archive](https://www.era.lib.ed.ac.uk/handle/1842/22906). -->
 
 `2005`
-__The University of Tokyo__, MA Economics
+__The University of Tokyo__, MA Economics (Adviser: Fumio Hayashi)
 
 `2003`
 __The University of Tokyo__, BA International Relations
