@@ -141,7 +141,7 @@ Gardner PP, Daub J, Tate J, __Moore BL__ _et al._ Rfam: Wikipedia, clans and the
 
 ## Invited Seminars
 
-`2019` University of Queensland, Kansai University, National University of Singapore
+`2019` University of Queensland, Bank of Japan (_twice_), Hitotsubashi University (_twice_), Kansai University, National University of Singapore
 
 `2018` Federal Reserve Board, Australian National University, University of Mannheim, Shanghai University of Economics and Finance
 
