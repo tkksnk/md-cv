@@ -23,7 +23,7 @@ I'm a Bioinformatics Scientist at [Illumina](http://www.illumina.com/), based at
 ## Employment
 
 `2016-`
-__Kobe University__, Center for Social Systems Innovation, Project Associate Professor
+__Kobe University__, , Center for Social Systems Innovation, Project Associate Professor
 
 `2014-2016`
 __The University of Tokyo__, Graduate School of Public Policy, Project Assistant Professor
