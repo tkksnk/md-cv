@@ -142,7 +142,7 @@ Gardner PP, Daub J, Tate J, __Moore BL__ _et al._ Rfam: Wikipedia, clans and the
 
 ## Invited Seminars
 
-`2019` University of Queensland, Bank of Japan (_twice_), Hitotsubashi University (_twice_), Kansai University, National University of Singapore
+`2019` University of Queensland, Bank of Japan (x2), Hitotsubashi University (x2), Kansai University, National University of Singapore
 
 `2018` Federal Reserve Board, Australian National University, University of Mannheim, Shanghai University of Economics and Finance
 
@@ -193,9 +193,55 @@ Queen Mary University of London, European Central Bank, Federal Reserve Board, F
 
 ## Grants
 
+`2018-2019` Grant-in-Aid for Scientific Research (KAKENHI) for Young Scientists, Project Number 18K12743 (Principle Investigator). “_Solution and estimation methods on nonlinear DSGE models_.”
+
+`2016-2017` Leading Initiative for Excellent Young Researchers (LEADER), 2016. ___Distinguished scholar under 40 selected and funded by Ministry of Education, Culture, Sports, Science and Technology (MEXT) of Japanese Government___.
+
+`2016` Nomura Foundation Grant-in-Aid.
+
+`2016` The Banque de France Fellowship. “_The zero lower bounds on nominal interest rates for Japanese economy_.”
+
+`2016` Murata Science Foundation Grant-in-Aid.
+
+`2016` Japan Center for Economic Research Grant-in-Aid. “_The zero lower bounds on nominal interest rates for Japanese economy_.”
+
+`2015` Seimeikai Fund. “_The interaction between microeconomic behavior of firms and macroeconomic fluctuations_.”
+
+`2015-2017` Grant-in-Aid for Scientific Research (KAKENHI) for Scientific Research (A), Project Number 15H01939 (Co-Investigator). “_International Policy Cooperation after the Global Financial Crisis_.”
+
+`2015-2018` Grant-in-Aid for Scientific Research (KAKENHI) for Young Scientists (B), Project Number 15K20918 (Principle Investigator). “_The interaction between microeconomic behavior of firms and macroeconomic fluctuations_.”
+
+`2014` Zengin Foundation Grant-in-Aid for Studies on Economics and Finance. “_Optimal sustainable monetary policies_.”
+
 ## Refereeing and other services
 
+### Referee for
+
+_Economic Inquiry_; _German Economic Review_; _Japan and the World Economy_; _Japanese Economic Review_; _Journal of Economic Dynamics and Control_ (x3); _Journal of International Money and Finance_; _Journal of Japanese and International Economies_; _Journal of Money, Credit and Banking_; _Singapore Economic Review_.
+
+### Organizing international workshops
+
+“_Workshop for Monetary Policy When Heterogeneity Matters_,” February 2017 (Paris, joint with Florin Bilbiie, Paris School of Economics).
+
+“_Workshop for Heterogeneous Macro Models_,” June 2017 (Kobe) and January 2018 (Kyoto, joint with Shuhei Takahashi, Kyoto University).
+
+### Others
+
+External Examiner of Ph.D. Thesis, Research School of Economics, Australian National University.
+
 ## Teaching
+
+`2018` Quantitative Methods for Monetary Economics (graduate), University of Mannheim
+
+`2017-` Quantitative Methods for Monetary Economics (graduate), Kobe University
+
+`2017-` International Finance (undergraduate), Kobe University (in Japanese)
+
+`2015-2017` Macroeconomics for Public Policy, Graduate School of Public Policy, The University of Tokyo
+
+`2015-2017` Principles of Macroeconomics, Graduate School of Public Policy, The University of Tokyo
+
+`2015` Advanced Macroeconomics, Tohoku University (in Japanese)
 
 ## Language and other skills
 
