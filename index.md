@@ -145,9 +145,9 @@ Queen Mary University of London, European Central Bank, Federal Reserve Board, F
 
 ## Conference Presentations
 
-`2020` Society for Advanced Economic Theory (Seoul, scheduled)
+`2020` 20th Annual SAET Conference (Seoul, scheduled)
 
-`2019` Midwest Macroeconomics Meetings (Athens), International Conference on Computing in Economics and Finance (Ottawa), Workshop for Australian Macroeconomics Society (Hobart)
+`2019` Midwest Macroeconomics Meetings (Athens), International Conference on Computing in Economics and Finance (Ottawa), Workshop of the Australian Macroeconomics Society (Hobart)
 
 `2018` Workshop for Heterogeneous Macro Models (Kyoto), Japanese Economic Association Fall Meeting (Himeji, _invited_), Asian Meeting of the Econometric Society (Seoul), The Annual Dynare Conference (Frankfurt)
 
