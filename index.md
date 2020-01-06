@@ -12,7 +12,7 @@ title: Takeki Sunakawa's CV
 |
 <i class="fa fa-github"></i> <a href="http://github.com/tkksnk">tkksnk</a>
 <br/>
-Last Updated: September 5, 2019.
+Last Updated: January 6, 2020.
 <!-- |
 <i class="fa fa-twitter"></i> <a href="http://twitter.com/tkksnk">tkksnk</a> -->
 </div>
@@ -112,7 +112,7 @@ Forward Guidance as a Monetary Policy Rule. (joint with [Mitsuru Katagiri](https
 
 [Applying Precomputation of Integrals to Nonlinear DSGE Models with Occasionally Binding Constraints](/files/method012419.pdf){:target="_blank"}. January 2019. <!--Submitted.-->
 
-[The Natural Rate of Interest in a Nonlinear DSGE Model](https://www.dropbox.com/s/j4nh0k3aamean6i/NaturalRateNonlinear15.pdf?dl=0){:target="_blank"}. (joint with [Yasuo Hirose](https://sites.google.com/site/yasuohirose/){:target="_blank"}) January 2019. <!--Submitted. The previous version is available as CAMA Working Paper Series 38/2017.-->
+[The Natural Rate of Interest in a Nonlinear DSGE Model](https://www.dropbox.com/s/j4nh0k3aamean6i/NaturalRateNonlinear15.pdf?dl=0){:target="_blank"}. (joint with [Yasuo Hirose](https://sites.google.com/site/yasuohirose/){:target="_blank"}) January 2019. Revision requested from ***International Journal of Central Banking***.<!--Submitted. The previous version is available as CAMA Working Paper Series 38/2017.-->
 
 [A Promised Value Approach to Optimal Monetary Policy](https://www.federalreserve.gov/econres/feds/files/2018083pap.pdf){:target="_blank"}. (joint with Timothy Hills and [Taisuke Nakata](https://sites.google.com/site/taisukenakata/){:target="_blank"}) FEDS Working Paper 2018-083, July 2018. Revision requested from ***Oxford Bulletin of Economics and Statistics***.
 
