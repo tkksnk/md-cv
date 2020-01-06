@@ -85,9 +85,9 @@ _EpiGeneSys_ (Cambridge, UK) -->
 
 [Applying the Explicit Aggregation Algorithm to Heterogeneous Macro Models](/files/XPApaper190703.pdf){:target="_blank"}. Forthcoming in ***Computational Economics***, August 2019. <!--[Journal website](https://doi.org/10.1007/s10614-019-09914-x){:target="_blank"} / [Github repository](https://github.com/tkksnk/Xpa){:target="_blank"}-->
 
-[Sustainable International Monetary Policy Cooperation](https://github.com/phantomachine/OSIMP/blob/master/MainPaper-2019-07-13.pdf){:target="_blank"}. (joint with [Ippei Fujiwara](https://sites.google.com/site/ippeifujiwara/){:target="_blank"} and [Timothy Kam](https://phantomachine.github.io/){:target="_blank"}) Forthcoming in ***Journal of Economic Dynamics and Control***, September 2019. <!--[Journal website](https://doi.org/10.1016/j.jedc.2019.103721){:target="_blank"} / [Github repository](https://github.com/phantomachine/OSIMP){:target="_blank"} (including the online appendix)-->
+[Sustainable International Monetary Policy Cooperation](https://github.com/phantomachine/OSIMP/blob/master/MainPaper-2019-07-13.pdf){:target="_blank"}. (joint with [Ippei Fujiwara](https://sites.google.com/site/ippeifujiwara/){:target="_blank"} and [Timothy Kam](https://phantomachine.github.io/){:target="_blank"}) ***Journal of Economic Dynamics and Control***, 106, 103721, September 2019. <!--[Journal website](https://doi.org/10.1016/j.jedc.2019.103721){:target="_blank"} / [Github repository](https://github.com/phantomachine/OSIMP){:target="_blank"} (including the online appendix)-->
 
-[Financial Frictions, Capital Misallocation, and Structural Change](/files/MPSC050919.pdf){:target="_blank"}. (joint with [Naohisa Hirakata](https://sites.google.com/site/naohisahirakata/research){:target="_blank"}) Forthcoming in ***Journal of Macroeconomics***, September 2019. <!--[Journal website](https://doi.org/10.1016/j.jmacro.2019.103127){:target="_blank"}-->
+[Financial Frictions, Capital Misallocation, and Structural Change](/files/MPSC050919.pdf){:target="_blank"}. (joint with [Naohisa Hirakata](https://sites.google.com/site/naohisahirakata/research){:target="_blank"}) ***Journal of Macroeconomics***, 61, 103127, September 2019. <!--[Journal website](https://doi.org/10.1016/j.jmacro.2019.103127){:target="_blank"}-->
 
 Review of Solution and Estimation Methods for Nonlinear DSGE Models with the Zero Lower Bound. (joint with [Yasuo Hirose](https://sites.google.com/site/yasuohirose/){:target="_blank"}) ***Japanese Economic Review***, 70(1), 51-104, January 2019. <!--[Journal website](https://doi.org/10.1111/jere.12217){:target="_blank"} / [Slides](https://www.dropbox.com/s/hn1ph8q0i2ki4k5/tutorial.pdf?dl=0){:target="_blank"} (at JEA 2018 Spring meeting) / [Github repository](https://github.com/tkksnk/NKZLB){:target="_blank"}-->
 
@@ -120,27 +120,9 @@ Parameter Bias in an Estimated DSGE Model: Does Nonlinearity Matter? (joint with
 
 [Sustainable Pricing in a Durable Goods Monopoly](/files/NASM2013-492.pdf){:target="_blank"}. May 2012.
 
-<!-- ### Journals -->
-<!-- `2017`
-Peluso S, Douglas A, Hill A, De Angelis C, __Moore BL__ _et al._ Fibroblast growth factors (FGFs) prime the limb specific Shh enhancer for chromatin changes that balance histone acetylation mediated by E26 transformation-specific (ETS) factors. _eLife_, 6: e28590.
-
-Eberle MA, Fritzilas E, Krusche P, Källberg M, __Moore BL__ _et al._ A reference data set of 5.4 million phased human variants validated by genetic inheritance from sequencing a three-generation 17-member pedigree. _Genome Research_, 27:157-164.
-
-`2016`
-Yu N, Nützmann H-W, MacDonald JT, __Moore B__ _et al._ Delineation of metabolic gene clusters in plant genomes by chromatin signatures. _Nucleic Acids Research_, 44(5):2255-2265.
-
-`2015`
-__Moore BL__ _et al._ Integrative modeling reveals the principles of multi-scale chromatin boundary formation in human nuclear organization. _Genome Biology_, 16:110.
-
-Fraser J, Ferrai C, Chiariello AM, Schueler M, Rito T, Laudanno G, Barbieri M, __Moore BL__ _et al._ Hierarchical folding and reorganization of chromosomes are linked to transcriptional changes in cellular differentiation. _Molecular systems biology_, 11:852.
-
-`2013`
-__Moore BL__ _et al._ High–quality protein backbone reconstruction from alpha carbons using Gaussian mixture models. _Journal of computational chemisty_, 34(22):1881-9.
-
-`2011`
-Gardner PP, Daub J, Tate J, __Moore BL__ _et al._ Rfam: Wikipedia, clans and the “decimal” release. _Nucleic acids research_, 39(S1):D141-5. -->
-
 ## Invited Seminars
+
+`2020` Nagoya University (scheduled)
 
 `2019` University of Queensland, Bank of Japan (x2), Hitotsubashi University (x2), Kansai University, National University of Singapore
 
@@ -163,7 +145,9 @@ Queen Mary University of London, European Central Bank, Federal Reserve Board, F
 
 ## Conference Presentations
 
-`2019` Midwest Macroeconomics Meetings (Athens), International Conference on Computing in Economics and Finance (Ottawa)
+`2020` Society for Advanced Economic Theory (Seoul, scheduled)
+
+`2019` Midwest Macroeconomics Meetings (Athens), International Conference on Computing in Economics and Finance (Ottawa), Workshop for Australian Macroeconomics Society (Hobart)
 
 `2018` Workshop for Heterogeneous Macro Models (Kyoto), Japanese Economic Association Fall Meeting (Himeji, _invited_), Asian Meeting of the Econometric Society (Seoul), The Annual Dynare Conference (Frankfurt)
 
