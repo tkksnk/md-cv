@@ -44,43 +44,6 @@ __The University of Tokyo__, MA Economics (Adviser: Fumio Hayashi)
 `2003`
 __The University of Tokyo__, BA International Relations
 
-<!-- ## Presentations
-
-### Tutorials
-
-`2014`
-WikiProject Computational Biology half-day tutorial (_ISMB_, Boston, USA)
-
-### Talks
-
-`2015`
-EdinbR: The Edinburgh R usergroup (_various_)
-
-MRC IGMM research seminars and section meetings (_various_)
-
-`2014`
-Unravelling higher order chromatin structure (_4<sup>th</sup> Edinburgh Bioinformatics meeting_, Edinburgh, UK)
-
-blogR: pop data analysis and R for the web (_Psychology R-users_, Edinburgh, UK)
-
-### Posters
-
-`2015`
-_Keystone Epigenomics_ (Keystone CO, USA)
-
-`2014`
-_ISMB_ (Boston MA, USA)
-
-_Genome informatics_ (Cambridge, UK)
-
-_Chromatin: From nucleosomes to chromosomes_ (Cambridge, UK)
-
-`2013`
-_Genome informatics_ (CSHL NY, USA)
-
-_EpiGeneSys_ (Cambridge, UK) -->
-
-
 ## Publications
 
 [Applying the Explicit Aggregation Algorithm to Heterogeneous Macro Models](/files/XPApaper190703.pdf){:target="_blank"}. Forthcoming in ***Computational Economics***, August 2019. <!--[Journal website](https://doi.org/10.1007/s10614-019-09914-x){:target="_blank"} / [Github repository](https://github.com/tkksnk/Xpa){:target="_blank"}-->
@@ -171,10 +134,6 @@ Queen Mary University of London, European Central Bank, Federal Reserve Board, F
 
 `2007` Japanese Economic Association Spring Meeting (Osaka)
 
-<!-- `2014` Pieces in _The Huffington Post_ (US): Here Are the Most Overrated and Underrated Movies of All Time; Celebrity Twitter Followers, by Gender ([huffingtonpost.com/benjamin-moore](http://www.huffingtonpost.com/benjamin-moore/))
-
-`2006–` Articles for _English Wikipedia_: European Nucleotide Archive, RNA thermometer, Toxin-antitoxin system and more ([en.wikipedia.org/wiki/User:Ben_Moore](https://en.wikipedia.org/wiki/User:Ben_Moore)). -->
-
 ## Grants
 
 `2018-2019` Grant-in-Aid for Scientific Research (KAKENHI) for Young Scientists, Project Number 18K12743 (Principle Investigator). “_Solution and estimation methods on nonlinear DSGE models_.”
@@ -201,7 +160,7 @@ Queen Mary University of London, European Central Bank, Federal Reserve Board, F
 
 ### Referee for
 
-_Economic Inquiry_; _German Economic Review_; _Japan and the World Economy_; _Japanese Economic Review_; _Journal of Economic Dynamics and Control_ (x3); _Journal of International Money and Finance_; _Journal of Japanese and International Economies_; _Journal of Money, Credit and Banking_; _Singapore Economic Review_.
+_Economic Inquiry_; _German Economic Review_; _Japan and the World Economy_; _Japanese Economic Review_; _Journal of Economic Dynamics and Control_ (x3); _Journal of International Money and Finance_; _Journal of Japanese and International Economies_; _Journal of Money, Credit and Banking_;_Macroeconomic Dynamics_; _Oxford Bulletin of Economics and Statistics_; _Singapore Economic Review_.
 
 ### Organizing international workshops
 
@@ -215,11 +174,17 @@ External Examiner of Ph.D. Thesis, Research School of Economics, Australian Nati
 
 ## Teaching
 
+`2020-` Advanced Macroeconomics (graduate), Hitotsubashi University
+
+`2020-` Quantitative Methods for Macroeconomics (graduate), Hitotsubashi University
+
+`2020-` Intermediate Macroeconomics (undergraduate), Hitotsubashi University
+
 `2018` Quantitative Methods for Monetary Economics (graduate), University of Mannheim
 
-`2017-` Quantitative Methods for Monetary Economics (graduate), Kobe University
+`2017-2019` Quantitative Methods for Monetary Economics (graduate), Kobe University
 
-`2017-` International Finance (undergraduate), Kobe University (in Japanese)
+`2017-2019` International Finance (undergraduate), Kobe University (in Japanese)
 
 `2015-2017` Macroeconomics for Public Policy, Graduate School of Public Policy, The University of Tokyo
 
