@@ -67,11 +67,11 @@ Review of Solution and Estimation Methods for Nonlinear DSGE Models with the Zer
 
 ## Working Papers
 
+[Heterogeneity, Transfer Progressivity and Business Cycles](https://drive.google.com/file/d/1GSo0MxES9rW6qbe-lOUVk12RJhWQm28p/view){:target="_blank"} (joint with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/){:target="_blank"} and [Minchul Yum](https://sites.google.com/site/minchulyum/research){:target="_blank"}) February 2020. <!--A revised draft coming soon.-->
+
 Forward Guidance as a Monetary Policy Rule. (joint with [Mitsuru Katagiri](https://sites.google.com/site/mitsurukatagiri/){:target="_blank"}) June 2019. <!--In progress.-->
 
 [Credible Forward Guidance](https://www.federalreserve.gov/econres/feds/files/2019037pap.pdf){:target="_blank"}. (joint with [Taisuke Nakata](https://sites.google.com/site/taisukenakata/){:target="_blank"}) FEDS Working Paper 2019-037, April 2019. <!--A revised draft coming soon.-->
-
-[Is Household Heterogeneity Important for Business Cycles?](https://drive.google.com/file/d/1OhIt9HPm78sW-BccHb0CFVIj3OioXXgh/view){:target="_blank"} (joint with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/){:target="_blank"} and [Minchul Yum](https://sites.google.com/site/minchulyum/research){:target="_blank"}) January 2019. <!--A revised draft coming soon.-->
 
 [Applying Precomputation of Integrals to Nonlinear DSGE Models with Occasionally Binding Constraints](/files/method012419.pdf){:target="_blank"}. January 2019. <!--Submitted.-->
 
@@ -85,7 +85,7 @@ Parameter Bias in an Estimated DSGE Model: Does Nonlinearity Matter? (joint with
 
 ## Invited Seminars
 
-`2020` Nagoya University (scheduled)
+<!--`2020` Nagoya University (scheduled)-->
 
 `2019` University of Queensland, Bank of Japan (x2), Hitotsubashi University (x2), Kansai University, National University of Singapore
 
