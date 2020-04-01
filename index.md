@@ -12,7 +12,7 @@ title: Takeki Sunakawa's CV
 |
 <i class="fa fa-github"></i> <a href="http://github.com/tkksnk">tkksnk</a>
 <br/>
-Last Updated: January 6, 2020.
+Last Updated: April 1, 2020.
 <!-- |
 <i class="fa fa-twitter"></i> <a href="http://twitter.com/tkksnk">tkksnk</a> -->
 </div>
