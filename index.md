@@ -23,7 +23,10 @@ I'm a Bioinformatics Scientist at [Illumina](http://www.illumina.com/), based at
 
 ## Employment
 
-`2016-`
+`2020-`
+__Hitotsubashi University__, Graduate School of Economics, Assistant Professor
+
+`2016-2020`
 __Kobe University__, Center for Social Systems Innovation, Project Associate Professor
 
 `2014-2016`
@@ -46,7 +49,7 @@ __The University of Tokyo__, BA International Relations
 
 ## Publications
 
-[Applying the Explicit Aggregation Algorithm to Heterogeneous Macro Models](/files/XPApaper190703.pdf){:target="_blank"}. Forthcoming in ***Computational Economics***, August 2019. <!--[Journal website](https://doi.org/10.1007/s10614-019-09914-x){:target="_blank"} / [Github repository](https://github.com/tkksnk/Xpa){:target="_blank"}-->
+[Applying the Explicit Aggregation Algorithm to Heterogeneous Macro Models](/files/XPApaper190703.pdf){:target="_blank"}. ***Computational Economics***, 55(3), 845-874, March 2020. <!--[Journal website](https://doi.org/10.1007/s10614-019-09914-x){:target="_blank"} / [Github repository](https://github.com/tkksnk/Xpa){:target="_blank"}-->
 
 [Sustainable International Monetary Policy Cooperation](https://github.com/phantomachine/OSIMP/blob/master/MainPaper-2019-07-13.pdf){:target="_blank"}. (joint with [Ippei Fujiwara](https://sites.google.com/site/ippeifujiwara/){:target="_blank"} and [Timothy Kam](https://phantomachine.github.io/){:target="_blank"}) ***Journal of Economic Dynamics and Control***, 106, 103721, September 2019. <!--[Journal website](https://doi.org/10.1016/j.jedc.2019.103721){:target="_blank"} / [Github repository](https://github.com/phantomachine/OSIMP){:target="_blank"} (including the online appendix)-->
 
@@ -67,7 +70,7 @@ Review of Solution and Estimation Methods for Nonlinear DSGE Models with the Zer
 
 ## Working Papers
 
-[Heterogeneity, Transfer Progressivity and Business Cycles](https://drive.google.com/file/d/1GSo0MxES9rW6qbe-lOUVk12RJhWQm28p/view){:target="_blank"} (joint with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/){:target="_blank"} and [Minchul Yum](https://sites.google.com/site/minchulyum/research){:target="_blank"}) February 2020. <!--A revised draft coming soon.-->
+[Heterogeneity, Transfer Progressivity and Business Cycles](https://drive.google.com/file/d/1GSo0MxES9rW6qbe-lOUVk12RJhWQm28p/view){:target="_blank"}. (joint with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/){:target="_blank"} and [Minchul Yum](https://sites.google.com/site/minchulyum/research){:target="_blank"}) February 2020. <!--A revised draft coming soon.-->
 
 Forward Guidance as a Monetary Policy Rule. (joint with [Mitsuru Katagiri](https://sites.google.com/site/mitsurukatagiri/){:target="_blank"}) June 2019. <!--In progress.-->
 
