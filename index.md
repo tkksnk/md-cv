@@ -49,6 +49,8 @@ __The University of Tokyo__, BA International Relations
 
 ## Publications
 
+[A Promised Value Approach to Optimal Monetary Policy](https://www.federalreserve.gov/econres/feds/files/2018083pap.pdf){:target="_blank"}. (joint with Timothy Hills and [Taisuke Nakata](https://sites.google.com/site/taisukenakata/){:target="_blank"}) forthcoming in ***Oxford Bulletin of Economics and Statistics***. The previous version is available as FEDS Working Paper 2018-083.
+
 [Applying the Explicit Aggregation Algorithm to Heterogeneous Macro Models](/files/XPApaper190703.pdf){:target="_blank"}. ***Computational Economics***, 55(3), 845-874, March 2020. <!--[Journal website](https://doi.org/10.1007/s10614-019-09914-x){:target="_blank"} / [Github repository](https://github.com/tkksnk/Xpa){:target="_blank"}-->
 
 [Sustainable International Monetary Policy Cooperation](https://github.com/phantomachine/OSIMP/blob/master/MainPaper-2019-07-13.pdf){:target="_blank"}. (joint with [Ippei Fujiwara](https://sites.google.com/site/ippeifujiwara/){:target="_blank"} and [Timothy Kam](https://phantomachine.github.io/){:target="_blank"}) ***Journal of Economic Dynamics and Control***, 106, 103721, September 2019. <!--[Journal website](https://doi.org/10.1016/j.jedc.2019.103721){:target="_blank"} / [Github repository](https://github.com/phantomachine/OSIMP){:target="_blank"} (including the online appendix)-->
@@ -70,17 +72,15 @@ Review of Solution and Estimation Methods for Nonlinear DSGE Models with the Zer
 
 ## Working Papers
 
+[Credible Forward Guidance](https://tkksnk.github.io/files/CFG_CARF.pdf){:target="_blank"}. (joint with [Taisuke Nakata](https://sites.google.com/site/taisukenakata/){:target="_blank"}) July 2020. [The previous version](https://www.federalreserve.gov/econres/feds/files/2019037pap.pdf){:target="_blank"} is available as FEDS Working Paper 2019-037.<!--A revised draft coming soon.-->
+
 [Heterogeneity, Transfer Progressivity and Business Cycles](https://drive.google.com/file/d/1GSo0MxES9rW6qbe-lOUVk12RJhWQm28p/view){:target="_blank"}. (joint with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/){:target="_blank"} and [Minchul Yum](https://sites.google.com/site/minchulyum/research){:target="_blank"}) February 2020. <!--A revised draft coming soon.-->
 
 Forward Guidance as a Monetary Policy Rule. (joint with [Mitsuru Katagiri](https://sites.google.com/site/mitsurukatagiri/){:target="_blank"}) June 2019. <!--In progress.-->
 
-[Credible Forward Guidance](https://www.federalreserve.gov/econres/feds/files/2019037pap.pdf){:target="_blank"}. (joint with [Taisuke Nakata](https://sites.google.com/site/taisukenakata/){:target="_blank"}) FEDS Working Paper 2019-037, April 2019. <!--A revised draft coming soon.-->
-
 [Applying Precomputation of Integrals to Nonlinear DSGE Models with Occasionally Binding Constraints](/files/method012419.pdf){:target="_blank"}. January 2019. <!--Submitted.-->
 
 [The Natural Rate of Interest in a Nonlinear DSGE Model](https://www.dropbox.com/s/j4nh0k3aamean6i/NaturalRateNonlinear15.pdf?dl=0){:target="_blank"}. (joint with [Yasuo Hirose](https://sites.google.com/site/yasuohirose/){:target="_blank"}) January 2019. Revision requested from ***International Journal of Central Banking***.<!--Submitted. The previous version is available as CAMA Working Paper Series 38/2017.-->
-
-[A Promised Value Approach to Optimal Monetary Policy](https://www.federalreserve.gov/econres/feds/files/2018083pap.pdf){:target="_blank"}. (joint with Timothy Hills and [Taisuke Nakata](https://sites.google.com/site/taisukenakata/){:target="_blank"}) FEDS Working Paper 2018-083, July 2018. Revision requested from ***Oxford Bulletin of Economics and Statistics***.
 
 Parameter Bias in an Estimated DSGE Model: Does Nonlinearity Matter? (joint with [Yasuo Hirose](https://sites.google.com/site/yasuohirose/){:target="_blank"}) CAMA Working Paper Series 46/2015, November 2015.
 
@@ -88,7 +88,7 @@ Parameter Bias in an Estimated DSGE Model: Does Nonlinearity Matter? (joint with
 
 ## Invited Seminars
 
-<!--`2020` Nagoya University (scheduled)-->
+`2020` University of Tokyo, Hosei University, Osaka University (scheduled)
 
 `2019` University of Queensland, Bank of Japan (x2), Hitotsubashi University (x2), Kansai University, National University of Singapore
 
@@ -111,7 +111,7 @@ Queen Mary University of London, European Central Bank, Federal Reserve Board, F
 
 ## Conference Presentations
 
-`2020` 20th Annual SAET Conference (Seoul, scheduled)
+<!--`2020` 20th Annual SAET Conference (Seoul, scheduled)-->
 
 `2019` Midwest Macroeconomics Meetings (Athens), International Conference on Computing in Economics and Finance (Ottawa), Workshop of the Australian Macroeconomics Society (Hobart)
 
@@ -177,7 +177,7 @@ External Examiner of Ph.D. Thesis, Research School of Economics, Australian Nati
 
 ## Teaching
 
-`2020-` Advanced Macroeconomics (graduate), Hitotsubashi University
+`2020-` Advanced Macroeconomics (Ph.D. core, graduate), Hitotsubashi University
 
 `2020-` Quantitative Methods for Macroeconomics (graduate), Hitotsubashi University
 
