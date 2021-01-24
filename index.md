@@ -49,7 +49,7 @@ __The University of Tokyo__, BA International Relations
 
 ## Publications
 
-[A Promised Value Approach to Optimal Monetary Policy](https://www.federalreserve.gov/econres/feds/files/2018083pap.pdf){:target="_blank"}. (joint with Timothy Hills and [Taisuke Nakata](https://sites.google.com/site/taisukenakata/){:target="_blank"}) forthcoming in ***Oxford Bulletin of Economics and Statistics***. The previous version is available as FEDS Working Paper 2018-083.
+[A Promised Value Approach to Optimal Monetary Policy](https://www.federalreserve.gov/econres/feds/files/2018083pap.pdf){:target="_blank"}. (joint with Timothy Hills and [Taisuke Nakata](https://sites.google.com/site/taisukenakata/){:target="_blank"}) ***Oxford Bulletin of Economics and Statistics***, 83(1), 176-198, February 2021. [Journal website](https://doi.org/10.1111/obes.12401){:target="_blank"}. The previous version is available as FEDS Working Paper 2018-083.
 
 [Applying the Explicit Aggregation Algorithm to Heterogeneous Macro Models](/files/XPApaper190703.pdf){:target="_blank"}. ***Computational Economics***, 55(3), 845-874, March 2020. <!--[Journal website](https://doi.org/10.1007/s10614-019-09914-x){:target="_blank"} / [Github repository](https://github.com/tkksnk/Xpa){:target="_blank"}-->
 
@@ -72,6 +72,8 @@ Review of Solution and Estimation Methods for Nonlinear DSGE Models with the Zer
 
 ## Working Papers
 
+[Applying the Explicit Aggregation Algorithm to Heterogeneous Agent Models in Continuous Time](/files/XPApaper210117EL.pdf){:target="_blank"}. (joint with Masakazu Emoto) January 2021. Submitted. [Github repository](https://github.com/Masakazu-Emoto/XPA-in-Continuous-Time){:target="_blank"}
+
 [Credible Forward Guidance](https://tkksnk.github.io/files/CFG_CARF.pdf){:target="_blank"}. (joint with [Taisuke Nakata](https://sites.google.com/site/taisukenakata/){:target="_blank"}) July 2020. [The previous version](https://www.federalreserve.gov/econres/feds/files/2019037pap.pdf){:target="_blank"} is available as FEDS Working Paper 2019-037.<!--A revised draft coming soon.-->
 
 [Heterogeneity, Transfer Progressivity and Business Cycles](https://drive.google.com/file/d/1GSo0MxES9rW6qbe-lOUVk12RJhWQm28p/view){:target="_blank"}. (joint with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/){:target="_blank"} and [Minchul Yum](https://sites.google.com/site/minchulyum/research){:target="_blank"}) February 2020. <!--A revised draft coming soon.-->
@@ -88,7 +90,7 @@ Parameter Bias in an Estimated DSGE Model: Does Nonlinearity Matter? (joint with
 
 ## Invited Seminars
 
-`2020` University of Tokyo, Hosei University, Osaka University (scheduled)
+`2020` University of Tokyo, Hosei University, Osaka University (x2)
 
 `2019` University of Queensland, Bank of Japan (x2), Hitotsubashi University (x2), Kansai University, National University of Singapore
 
@@ -111,7 +113,7 @@ Queen Mary University of London, European Central Bank, Federal Reserve Board, F
 
 ## Conference Presentations
 
-<!--`2020` 20th Annual SAET Conference (Seoul, scheduled)-->
+`2021` 20th Annual SAET Conference (Virtual, scheduled)
 
 `2019` Midwest Macroeconomics Meetings (Athens), International Conference on Computing in Economics and Finance (Ottawa), Workshop of the Australian Macroeconomics Society (Hobart)
 
