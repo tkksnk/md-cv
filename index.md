@@ -3,7 +3,6 @@ layout: cv
 title: Takeki Sunakawa's CV
 ---
 # Takeki Sunakawa
-<!--Bioinformatics PhD and data scientist-->
 
 <div id="webaddress">
 <a href="https://tkksnk.github.io">https://tkksnk.github.io</a>
@@ -16,10 +15,6 @@ Last Updated: January 24, 2021.
 <!-- |
 <i class="fa fa-twitter"></i> <a href="http://twitter.com/tkksnk">tkksnk</a> -->
 </div>
-
-<!-- ## Currently
-
-I'm a Bioinformatics Scientist at [Illumina](http://www.illumina.com/), based at their R&D site near Cambridge, UK. Here I develop software and use data science, machine learning and statistical programming to analyse large volumes of high-throughput sequencing data. -->
 
 ## Employment
 
@@ -39,7 +34,6 @@ __Bank of Japan__, Economist
 
 `2012`
 __The Ohio State University__, PhD Economics (Advisers: William D. Dupor and Aubhik Khan).
-<!-- My thesis was titled _Unravelling higher order chromatin organisation through statistical analysis_ and is available through the [Edinburgh Research Archive](https://www.era.lib.ed.ac.uk/handle/1842/22906). -->
 
 `2005`
 __The University of Tokyo__, MA Economics (Adviser: Fumio Hayashi)
@@ -49,21 +43,21 @@ __The University of Tokyo__, BA International Relations
 
 ## Publications
 
-[A Promised Value Approach to Optimal Monetary Policy](https://www.federalreserve.gov/econres/feds/files/2018083pap.pdf){:target="_blank"}. (joint with Timothy Hills and [Taisuke Nakata](https://sites.google.com/site/taisukenakata/){:target="_blank"}) ***Oxford Bulletin of Economics and Statistics***, 83(1), 176-198, February 2021. [Journal website](https://doi.org/10.1111/obes.12401){:target="_blank"}. The previous version is available as FEDS Working Paper 2018-083.
+[A Promised Value Approach to Optimal Monetary Policy](https://doi.org/10.1111/obes.12401){:target="_blank"}. (joint with Timothy Hills and [Taisuke Nakata](https://sites.google.com/site/taisukenakata/){:target="_blank"}) ***Oxford Bulletin of Economics and Statistics***, 83(1), 176-198, February 2021.
 
-[Applying the Explicit Aggregation Algorithm to Heterogeneous Macro Models](/files/XPApaper190703.pdf){:target="_blank"}. ***Computational Economics***, 55(3), 845-874, March 2020. <!--[Journal website](https://doi.org/10.1007/s10614-019-09914-x){:target="_blank"} / [Github repository](https://github.com/tkksnk/Xpa){:target="_blank"}-->
+[Applying the Explicit Aggregation Algorithm to Heterogeneous Macro Models](https://doi.org/10.1007/s10614-019-09914-x){:target="_blank"}. ***Computational Economics***, 55(3), 845-874, March 2020.
 
-[Sustainable International Monetary Policy Cooperation](https://github.com/phantomachine/OSIMP/blob/master/MainPaper-2019-07-13.pdf){:target="_blank"}. (joint with [Ippei Fujiwara](https://sites.google.com/site/ippeifujiwara/){:target="_blank"} and [Timothy Kam](https://phantomachine.github.io/){:target="_blank"}) ***Journal of Economic Dynamics and Control***, 106, 103721, September 2019. <!--[Journal website](https://doi.org/10.1016/j.jedc.2019.103721){:target="_blank"} / [Github repository](https://github.com/phantomachine/OSIMP){:target="_blank"} (including the online appendix)-->
+[Sustainable International Monetary Policy Cooperation](https://doi.org/10.1016/j.jedc.2019.103721){:target="_blank"}. (joint with [Ippei Fujiwara](https://sites.google.com/site/ippeifujiwara/){:target="_blank"} and [Timothy Kam](https://phantomachine.github.io/){:target="_blank"}) ***Journal of Economic Dynamics and Control***, 106, 103721, September 2019.
 
-[Financial Frictions, Capital Misallocation, and Structural Change](/files/MPSC050919.pdf){:target="_blank"}. (joint with [Naohisa Hirakata](https://sites.google.com/site/naohisahirakata/research){:target="_blank"}) ***Journal of Macroeconomics***, 61, 103127, September 2019. <!--[Journal website](https://doi.org/10.1016/j.jmacro.2019.103127){:target="_blank"}-->
+[Financial Frictions, Capital Misallocation, and Structural Change](https://doi.org/10.1016/j.jmacro.2019.103127){:target="_blank"}. (joint with [Naohisa Hirakata](https://sites.google.com/site/naohisahirakata/research){:target="_blank"}) ***Journal of Macroeconomics***, 61, 103127, September 2019.
 
-Review of Solution and Estimation Methods for Nonlinear DSGE Models with the Zero Lower Bound. (joint with [Yasuo Hirose](https://sites.google.com/site/yasuohirose/){:target="_blank"}) ***Japanese Economic Review***, 70(1), 51-104, January 2019. <!--[Journal website](https://doi.org/10.1111/jere.12217){:target="_blank"} / [Slides](https://www.dropbox.com/s/hn1ph8q0i2ki4k5/tutorial.pdf?dl=0){:target="_blank"} (at JEA 2018 Spring meeting) / [Github repository](https://github.com/tkksnk/NKZLB){:target="_blank"}-->
+[Review of Solution and Estimation Methods for Nonlinear DSGE Models with the Zero Lower Bound](https://doi.org/10.1111/jere.12217){:target="_blank"}. (joint with [Yasuo Hirose](https://sites.google.com/site/yasuohirose/){:target="_blank"}) ***Japanese Economic Review***, 70(1), 51-104, January 2019.
 
-[On Two Notions of Imperfect Credibility in Optimal Monetary Policies](/files/manuscript09302018.pdf){:target="_blank"}. (joint with  [Ippei Fujiwara](https://sites.google.com/site/ippeifujiwara/){:target="_blank"} and [Timothy Kam](https://phantomachine.github.io/){:target="_blank"}) ***Economics Letters***, 174, 22-25, January 2019. <!--[Journal website](https://doi.org/10.1016/j.econlet.2018.10.010){:target="_blank"}-->
+[On Two Notions of Imperfect Credibility in Optimal Monetary Policies](https://doi.org/10.1016/j.econlet.2018.10.010){:target="_blank"}. (joint with  [Ippei Fujiwara](https://sites.google.com/site/ippeifujiwara/){:target="_blank"} and [Timothy Kam](https://phantomachine.github.io/){:target="_blank"}) ***Economics Letters***, 174, 22-25, January 2019.
 
-[Optimal Monetary Policy with Labor Market Frictions: The Role of the Wage Channel](/files/ms13-177.pdf){:target="_blank"}. ***Journal of Money, Credit and Banking***, 47(6), 1119-1147, September 2015. <!--[Journal website](https://doi.org/10.1111/jmcb.12239){:target="_blank"} / [Online appendix](/files/ms13-177_online_appendix.pdf){:target="_blank"} / [Replication files](/files/ms13-177programs.zip)-->
+[Optimal Monetary Policy with Labor Market Frictions: The Role of the Wage Channel](https://doi.org/10.1111/jmcb.12239){:target="_blank"}. ***Journal of Money, Credit and Banking***, 47(6), 1119-1147, September 2015.
 
-[A Quantitative Analysis of Optimal Sustainable Monetary Policies](/files/MS8139sunakawa.pdf){:target="_blank"}. ***Journal of Economic Dynamics and Control***, 52, 119-135, March 2015. <!--[Journal website](https://doi.org/10.1016/j.jedc.2014.12.002){:target="_blank"} / [Replication files](/files/public.zip)-->
+[A Quantitative Analysis of Optimal Sustainable Monetary Policies](https://doi.org/10.1016/j.jedc.2014.12.002){:target="_blank"}. ***Journal of Economic Dynamics and Control***, 52, 119-135, March 2015.
 
 [Inflation Dynamics and Labor Market Specifications: A Bayesian Dynamic Stochastic General Equilibrium Approach for Japan's Economy]( https://doi.org/10.1111/j.1465-7295.2011.00428.x){:target="_blank"}. (joint with [Hibiki Ichiue](https://sites.google.com/site/hichiue/home){:target="_blank"} and Takushi Kurozumi) ***Economic Inquiry***, 51(1), 273-287, January 2013.
 
@@ -72,15 +66,15 @@ Review of Solution and Estimation Methods for Nonlinear DSGE Models with the Zer
 
 ## Working Papers
 
-[Applying the Explicit Aggregation Algorithm to Heterogeneous Agent Models in Continuous Time](/files/XPApaper210117EL.pdf){:target="_blank"}. (joint with Masakazu Emoto) January 2021. Submitted. [Github repository](https://github.com/Masakazu-Emoto/XPA-in-Continuous-Time){:target="_blank"}
+[Applying the Explicit Aggregation Algorithm to Heterogeneous Agent Models in Continuous Time](/files/XPApaper210117EL.pdf){:target="_blank"}. (joint with Masakazu Emoto) January 2021.
 
-[Credible Forward Guidance](https://tkksnk.github.io/files/CFG_CARF.pdf){:target="_blank"}. (joint with [Taisuke Nakata](https://sites.google.com/site/taisukenakata/){:target="_blank"}) July 2020. [The previous version](https://www.federalreserve.gov/econres/feds/files/2019037pap.pdf){:target="_blank"} is available as FEDS Working Paper 2019-037.<!--A revised draft coming soon.-->
+[Credible Forward Guidance](https://tkksnk.github.io/files/CFG_CARF.pdf){:target="_blank"}. (joint with [Taisuke Nakata](https://sites.google.com/site/taisukenakata/){:target="_blank"}) July 2020. [The previous version](https://www.federalreserve.gov/econres/feds/files/2019037pap.pdf){:target="_blank"} is available as FEDS Working Paper 2019-037.
 
-[Heterogeneity, Transfer Progressivity and Business Cycles](https://drive.google.com/file/d/1GSo0MxES9rW6qbe-lOUVk12RJhWQm28p/view){:target="_blank"}. (joint with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/){:target="_blank"} and [Minchul Yum](https://sites.google.com/site/minchulyum/research){:target="_blank"}) February 2020. <!--A revised draft coming soon.-->
+[Heterogeneity, Transfer Progressivity and Business Cycles](https://drive.google.com/file/d/1GSo0MxES9rW6qbe-lOUVk12RJhWQm28p/view){:target="_blank"}. (joint with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/){:target="_blank"} and [Minchul Yum](https://sites.google.com/site/minchulyum/research){:target="_blank"}) February 2020.
 
-Forward Guidance as a Monetary Policy Rule. (joint with [Mitsuru Katagiri](https://sites.google.com/site/mitsurukatagiri/){:target="_blank"}) June 2019. <!--In progress.-->
+Forward Guidance as a Monetary Policy Rule. (joint with [Mitsuru Katagiri](https://sites.google.com/site/mitsurukatagiri/){:target="_blank"}) June 2019.
 
-[Applying Precomputation of Integrals to Nonlinear DSGE Models with Occasionally Binding Constraints](/files/method012419.pdf){:target="_blank"}. January 2019. <!--Submitted.-->
+[Applying Precomputation of Integrals to Nonlinear DSGE Models with Occasionally Binding Constraints](/files/method012419.pdf){:target="_blank"}. January 2019.
 
 [The Natural Rate of Interest in a Nonlinear DSGE Model](https://www.dropbox.com/s/j4nh0k3aamean6i/NaturalRateNonlinear15.pdf?dl=0){:target="_blank"}. (joint with [Yasuo Hirose](https://sites.google.com/site/yasuohirose/){:target="_blank"}) January 2019. Revision requested from ***International Journal of Central Banking***.<!--Submitted. The previous version is available as CAMA Working Paper Series 38/2017.-->
 
@@ -209,73 +203,6 @@ External Examiner of Ph.D. Thesis, Research School of Economics, Australian Nati
 * UNIX
 * Cluster computing
 
-<!--## Areas of expertise
-
-* Bioinformatics
-* Statistics
-* Machine learning
-* Data visualisation
-* Software development
-* NGS and variant calling
-
-## Projects
-
-### github
-
-My [personal github account](https://github.com/blmoore) hosts my hobby development projects as well as listing contributions to open source tools. Examples include: shiny apps [blackspot](https://github.com/blmoore/blackspot) and [shinybrot](https://github.com/blmoore/shinybrot), as well as an R package hosted by CRAN ([mandelbrot](https://github.com/blmoore/mandelbrot)).
-
-### blog
-
-I write a data science blog at [blm.io](http://blm.io/blog) where I apply R and Python to open datasets and write-up the results. My posts have been featured by sites including FiveThirtyEight, BuzzFeed, AVclub, io9 and more, and also led to being an invited blogger at the Huffington Post. My original wordpress blog ([benjaminlmoore.wordpress.com](http://benjaminlmoore.wordpress.com)) has received over 150,000 unique visitors from 180 countries.
-
-### EdinbR
-
-I co-founded a usergroup for the R programming language in Edinburgh called EdinbR. I helped to organise our monthly meetings and built our website: [edinbr.org](http://edinbr.org). Our meetings attract 30-50 statisticians, data scientists and developers for talks and discussion about the R language and its applications. We're sponsored by Revolution Analytics and have an organisational github account at [github.com/EdinbR](https://github.com/EdinbR).
-
-### datarea
-
-I entered Imperial College's [Summer Data Challenge](https://www.imperial.ac.uk/data-science/education/summer-data-challenge/) competition, where entrants analysed a given dataset and then proposed a startup idea based on their results. I developed a modelling technique to select housing areas for investment and was awarded third place: £2,000 and startup support from Imperial Create Lab. My entry can be seen at [blm.io/datarea](http://blm.io/datarea) and the code is shared on my github account.
-
-## Awards
-
-MRC Capacity building scholarship (PhD fees + enhanced stipend)
-
-MRC Full postgraduate scholarship (MSc fees + stipend)
-
-ISCB computational biology Wikipedia competition 2013 ([doi:10.1371/journal.pcbi.1003242](http://dx.doi.org/10.1371/journal.pcbi.1003242); 2nd place)
-
-Imperial Create Lab's "Summer data challenge" ([summerdatachallenge.com](http://summerdatachallenge.com); 3rd place)
-
-Individual engagement grant from the Wikimedia Foundation to attend ISMB 2014
-
-Training accreditation for Wikimedia UK, the national chapter of the Wikimedia Foundation
-
-Front cover design selected for J. Comp. Chem. (34:22) ([doi:10.1002/jcc.23388](http://dx.doi.org/10.1002/jcc.23388))
-
-## Placements
-
-`2010-11`
-__Wellcome Trust Sanger Institute__ (_Cambridge, UK_)
-Worked for two summers on the Rfam database ([rfam.xfam.org](http://rfam.xfam.org)) in the Bateman group -->
-
-
-<!-- ## Links
-
-<!-- fa are fontawesome, ai are academicons
-* <i class="fa fa-envelope"></i> <a href="mailto:ben@blm.io">ben@blm.io</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/blmoore">blmoore</a><br />
-* <i class="fa fa-twitter"></i> <a href="http://twitter.com/benjaminlmoore">benjaminlmoore</a><br />
-* <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/blmoore/">LinkedIn</a>
-* <i class="fa fa-stack-overflow"></i> <a href="http://stackoverflow.com/users/1274516/blmoore">StackOverflow</a>
-* <i class="fa fa-wikipedia"></i> <a href="https://en.wikipedia.org/wiki/User:Ben_Moore">Wikipedia Userpage</a><br />
-* <i class="ai ai-google-scholar"></i> <a href="http://scholar.google.com/citations?user=YMxsGpsAAAAJ">Google scholar</a>
-* <i class="ai ai-orcid"></i> <a href="https://orcid.org/0000-0002-4074-1933">ORCiD</a>
-* <i class="ai ai-figshare"></i> <a href="https://figshare.com/authors/Benjamin_Moore/99461">figshare</a> -->
-
 ## References
 
 Available on request.
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
