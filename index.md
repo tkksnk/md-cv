@@ -107,7 +107,7 @@ Queen Mary University of London, European Central Bank, Federal Reserve Board, F
 
 ## Conference Presentations
 
-`2021` 20th Annual SAET Conference (Virtual, scheduled)
+`2021` Japanese Economic Association Spring Meeting (Virtual, _invited_), 20th Annual SAET Conference (Virtual, scheduled)
 
 `2019` Midwest Macroeconomics Meetings (Athens), International Conference on Computing in Economics and Finance (Ottawa), Workshop of the Australian Macroeconomics Society (Hobart)
 
