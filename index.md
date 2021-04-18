@@ -139,9 +139,9 @@ Queen Mary University of London, European Central Bank, Federal Reserve Board, F
 
 `2021-2024` Grant-in-Aid for Scientific Research (KAKENHI) for Young Scientists, Project Number 21K01480 (Principle Investigator). “_Normative and Positive Analysis of Forward Guidance by Central Banks_.”
 
-`2021-2026` Grant-in-Aid for Scientific Research (KAKENHI) for Scientific Research (B), Project Number TBA (Co-Investigator). “_Macroeconomic Analysis in the Era of Yield Curve Control_. (Principle Investigator: Etsuro Shioji)”
+`2021-2026` Grant-in-Aid for Scientific Research (KAKENHI) for Scientific Research (B), Project Number TBA (Co-Investigator). “_Macroeconomic Analysis in the Era of Yield Curve Control_.” (Principle Investigator: Etsuro Shioji)
 
-`2021-2024` Grant-in-Aid for Scientific Research (KAKENHI) for Scientific Research (B), Project Number TBA (Co-Investigator). “_The Interaction between Fiscal and Monetary Policies_. (Principle Investigator: Toshitaka Sekine)”
+`2021-2024` Grant-in-Aid for Scientific Research (KAKENHI) for Scientific Research (B), Project Number TBA (Co-Investigator). “_The Interaction between Fiscal and Monetary Policies_.” (Principle Investigator: Toshitaka Sekine)
 
 `2018-2022` Grant-in-Aid for Scientific Research (KAKENHI) for Young Scientists, Project Number 18K12743 (Principle Investigator). “_Solution and estimation methods on nonlinear DSGE models_.”
 
@@ -157,7 +157,7 @@ Queen Mary University of London, European Central Bank, Federal Reserve Board, F
 
 `2015` Seimeikai Fund. “_The interaction between microeconomic behavior of firms and macroeconomic fluctuations_.”
 
-`2015-2017` Grant-in-Aid for Scientific Research (KAKENHI) for Scientific Research (A), Project Number 15H01939 (Co-Investigator). “_International Policy Cooperation after the Global Financial Crisis_. (Principle Investigator: Tomoyuki Nakajima)”
+`2015-2017` Grant-in-Aid for Scientific Research (KAKENHI) for Scientific Research (A), Project Number 15H01939 (Co-Investigator). “_International Policy Cooperation after the Global Financial Crisis_.” (Principle Investigator: Tomoyuki Nakajima)
 
 `2015-2018` Grant-in-Aid for Scientific Research (KAKENHI) for Young Scientists (B), Project Number 15K20918 (Principle Investigator). “_The interaction between microeconomic behavior of firms and macroeconomic fluctuations_.”
 
@@ -167,7 +167,7 @@ Queen Mary University of London, European Central Bank, Federal Reserve Board, F
 
 ### Referee for
 
-_Economic Inquiry_; _German Economic Review_; _Japan and the World Economy_; _Japanese Economic Review_; _Journal of Economic Dynamics and Control_ (x3); _Journal of International Money and Finance_; _Journal of Japanese and International Economies_; _Journal of Macroeconomics_(x2); _Journal of Money, Credit and Banking_(x2); _Macroeconomic Dynamics_; _Oxford Bulletin of Economics and Statistics_; _Singapore Economic Review_(x2).
+_Economic Inquiry_; _German Economic Review_; _Japan and the World Economy_; _Japanese Economic Review_; _Journal of Economic Dynamics and Control_ (x3); _Journal of International Money and Finance_; _Journal of Japanese and International Economies_; _Journal of Macroeconomics_ (x2); _Journal of Money, Credit and Banking_ (x2); _Macroeconomic Dynamics_; _Oxford Bulletin of Economics and Statistics_; _Singapore Economic Review_ (x2).
 
 ### Organizing international workshops
 
