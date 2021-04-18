@@ -11,7 +11,7 @@ title: Takeki Sunakawa's CV
 |
 <i class="fa fa-github"></i> <a href="http://github.com/tkksnk">tkksnk</a>
 <br/>
-Last Updated: January 24, 2021.
+Last Updated: April 18, 2021.
 <!-- |
 <i class="fa fa-twitter"></i> <a href="http://twitter.com/tkksnk">tkksnk</a> -->
 </div>
@@ -66,21 +66,21 @@ __The University of Tokyo__, BA International Relations
 
 ## Working Papers
 
-[Applying the Explicit Aggregation Algorithm to Heterogeneous Agent Models in Continuous Time](/files/XPApaper210117EL.pdf){:target="_blank"}. (joint with Masakazu Emoto) January 2021.
+[Applying the Explicit Aggregation Algorithm to Heterogeneous Agent Models in Continuous Time](/files/XPApaper210117EL.pdf){:target="_blank"}. (joint with Masakazu Emoto) April 2021. Revision requested from ***Economics Letters***.
 
 [Credible Forward Guidance](https://tkksnk.github.io/files/CFG_CARF.pdf){:target="_blank"}. (joint with [Taisuke Nakata](https://sites.google.com/site/taisukenakata/){:target="_blank"}) July 2020. [The previous version](https://www.federalreserve.gov/econres/feds/files/2019037pap.pdf){:target="_blank"} is available as FEDS Working Paper 2019-037.
 
-[Heterogeneity, Transfer Progressivity and Business Cycles](https://drive.google.com/file/d/1GSo0MxES9rW6qbe-lOUVk12RJhWQm28p/view){:target="_blank"}. (joint with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/){:target="_blank"} and [Minchul Yum](https://sites.google.com/site/minchulyum/research){:target="_blank"}) February 2020.
+[Heterogeneity, Transfer Progressivity and Business Cycles](https://drive.google.com/file/d/1GSo0MxES9rW6qbe-lOUVk12RJhWQm28p/view){:target="_blank"}. (joint with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/){:target="_blank"} and [Minchul Yum](https://sites.google.com/site/minchulyum/research){:target="_blank"}) February 2020. Revision requested from ***Quantitative Economics***.
 
 [The Natural Rate of Interest in a Nonlinear DSGE Model](https://www.dropbox.com/s/j4nh0k3aamean6i/NaturalRateNonlinear15.pdf?dl=0){:target="_blank"}. (joint with [Yasuo Hirose](https://sites.google.com/site/yasuohirose/){:target="_blank"}) January 2019. Revision requested from ***International Journal of Central Banking***.<!--Submitted. The previous version is available as CAMA Working Paper Series 38/2017.-->
 
 Forward Guidance as a Monetary Policy Rule. (joint with [Mitsuru Katagiri](https://sites.google.com/site/mitsurukatagiri/){:target="_blank"}) June 2019.
 
-[Sustainable Pricing in a Durable Goods Monopoly](/files/NASM2013-492.pdf){:target="_blank"}. May 2012.
-
 [Applying Precomputation of Integrals to Nonlinear DSGE Models with Occasionally Binding Constraints](/files/method012419.pdf){:target="_blank"}. January 2019.
 
 Parameter Bias in an Estimated DSGE Model: Does Nonlinearity Matter? (joint with [Yasuo Hirose](https://sites.google.com/site/yasuohirose/){:target="_blank"}) CAMA Working Paper Series 46/2015, November 2015.
+
+[Sustainable Pricing in a Durable Goods Monopoly](/files/NASM2013-492.pdf){:target="_blank"}. May 2012.
 
 ## Invited Seminars
 
@@ -137,7 +137,13 @@ Queen Mary University of London, European Central Bank, Federal Reserve Board, F
 
 <!-- NOTE: Are Japanese grants in fiscal years? -->
 
-`2018-2021` Grant-in-Aid for Scientific Research (KAKENHI) for Young Scientists, Project Number 18K12743 (Principle Investigator). “_Solution and estimation methods on nonlinear DSGE models_.”
+`2021-2024` Grant-in-Aid for Scientific Research (KAKENHI) for Young Scientists, Project Number 21K01480 (Principle Investigator). “_Normative and Positive Analysis of Forward Guidance by Central Banks_.”
+
+`2021-2026` Grant-in-Aid for Scientific Research (KAKENHI) for Scientific Research (B), Project Number TBA (Co-Investigator). “_Macroeconomic Analysis in the Era of Yield Curve Control_. (Principle Investigator: Etsuro Shioji)”
+
+`2021-2024` Grant-in-Aid for Scientific Research (KAKENHI) for Scientific Research (B), Project Number TBA (Co-Investigator). “_The Interaction between Fiscal and Monetary Policies_. (Principle Investigator: Toshitaka Sekine)”
+
+`2018-2022` Grant-in-Aid for Scientific Research (KAKENHI) for Young Scientists, Project Number 18K12743 (Principle Investigator). “_Solution and estimation methods on nonlinear DSGE models_.”
 
 `2016-2017` Leading Initiative for Excellent Young Researchers (LEADER). ___Distinguished scholar under 40 selected and funded by Ministry of Education, Culture, Sports, Science and Technology (MEXT) of Japanese Government___.
 
@@ -151,7 +157,7 @@ Queen Mary University of London, European Central Bank, Federal Reserve Board, F
 
 `2015` Seimeikai Fund. “_The interaction between microeconomic behavior of firms and macroeconomic fluctuations_.”
 
-`2015-2017` Grant-in-Aid for Scientific Research (KAKENHI) for Scientific Research (A), Project Number 15H01939 (Co-Investigator). “_International Policy Cooperation after the Global Financial Crisis_.”
+`2015-2017` Grant-in-Aid for Scientific Research (KAKENHI) for Scientific Research (A), Project Number 15H01939 (Co-Investigator). “_International Policy Cooperation after the Global Financial Crisis_. (Principle Investigator: Tomoyuki Nakajima)”
 
 `2015-2018` Grant-in-Aid for Scientific Research (KAKENHI) for Young Scientists (B), Project Number 15K20918 (Principle Investigator). “_The interaction between microeconomic behavior of firms and macroeconomic fluctuations_.”
 
@@ -161,7 +167,7 @@ Queen Mary University of London, European Central Bank, Federal Reserve Board, F
 
 ### Referee for
 
-_Economic Inquiry_; _German Economic Review_; _Japan and the World Economy_; _Japanese Economic Review_; _Journal of Economic Dynamics and Control_ (x3); _Journal of International Money and Finance_; _Journal of Japanese and International Economies_; _Journal of Money, Credit and Banking_; _Macroeconomic Dynamics_; _Oxford Bulletin of Economics and Statistics_; _Singapore Economic Review_.
+_Economic Inquiry_; _German Economic Review_; _Japan and the World Economy_; _Japanese Economic Review_; _Journal of Economic Dynamics and Control_ (x3); _Journal of International Money and Finance_; _Journal of Japanese and International Economies_; _Journal of Macroeconomics_(x2); _Journal of Money, Credit and Banking_(x2); _Macroeconomic Dynamics_; _Oxford Bulletin of Economics and Statistics_; _Singapore Economic Review_(x2).
 
 ### Organizing international workshops
 
